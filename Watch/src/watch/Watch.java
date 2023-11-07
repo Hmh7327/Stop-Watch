@@ -17,8 +17,10 @@ public class Watch {
      */
     public static void main(String[] args)throws IOException 
     {
-        stopwatch obj=new stopwatch();
+        
+	stopwatch obj=new stopwatch();
         obj.setVisible(true);
+	Sytem.out.println("Harrison Goldstein");
     }
     
 }
