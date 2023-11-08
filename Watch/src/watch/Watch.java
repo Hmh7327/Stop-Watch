@@ -20,7 +20,7 @@ public class Watch {
         
 	stopwatch obj=new stopwatch();
         obj.setVisible(true);
-	Sytem.out.println("Harrison Goldstein");
+	System.out.println("Let's see what time you are stopped at!");
     }
     
 }
